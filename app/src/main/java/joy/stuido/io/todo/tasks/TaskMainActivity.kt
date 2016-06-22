@@ -1,4 +1,4 @@
-package joy.stuido.io.todo.joy.studio.io.todo.tasks
+package joy.stuido.io.todo.tasks
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

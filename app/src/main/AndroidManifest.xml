@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".joy.studio.io.todo.tasks.TaskMainActivity">
+        <activity android:name="joy.stuido.io.todo.tasks.TaskMainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

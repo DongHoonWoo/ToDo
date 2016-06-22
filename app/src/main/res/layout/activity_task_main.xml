@@ -5,7 +5,7 @@
     android:id="@+id/activity_task_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="joy.stuido.io.todo.joy.studio.io.todo.tasks.TaskMainActivity">
+    tools:context=".tasks.TaskMainActivity">
 
     <TextView
         android:layout_width="wrap_content"
